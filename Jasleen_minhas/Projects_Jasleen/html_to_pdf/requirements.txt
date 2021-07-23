@@ -1,0 +1,19 @@
+To successfully create a html to pdf converter, you need to have the following Python library installed on your Machine:
+
+- PDFKit -> PDFKit is a PDF document generation library for Node and the browser that makes creating complex, multi-page, printable documents easy.
+
+- Wkhtmltopdf -> Wkhtmltopdf is an open source simple and much effective command-line shell utility that enables user to convert any given HTML (Web Page) to PDF document or an image (jpg, png, etc).
+
+
+
+
+Installation:
+
+pip install PDFKit
+
+For mac:
+brew install Caskroom/cask/wkhtmltopdf
+or 
+pip install wkhtmltopdf
+For other os:
+---- https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf

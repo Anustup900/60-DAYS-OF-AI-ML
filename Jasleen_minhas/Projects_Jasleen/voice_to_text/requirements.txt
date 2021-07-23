@@ -1,0 +1,12 @@
+To successfully create a speech to text converter, you need to have the following Python library installed on your Machine:
+
+-PyAudio Library
+-SpeechRecognition Library
+
+
+
+
+For Installation:
+
+pip install PyAudio
+pip install SpeechRecognition
