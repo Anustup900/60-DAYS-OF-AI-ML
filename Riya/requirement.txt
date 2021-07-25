@@ -1,0 +1,10 @@
+Speech to Text converter requires following Python library:
+
+-PyAudio Library
+-SpeechRecognition Library
+
+
+For Installation:
+
+pip install PyAudio
+pip install SpeechRecognition
