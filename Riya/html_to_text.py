@@ -11,5 +11,5 @@ import pdfkit
 pdfkit.from_file(r'D:/AAA/try.html', r'D:/AAA/out.pdf')
 
 # =============================================================================
-# pdfkit.from_url('https://www.google.co.in/',r'D:/AAA/shaurya.pdf')
+# pdfkit.from_url('https://www.google.co.in/',r'D:/AAA/riya.pdf')
 # =============================================================================
